@@ -21,3 +21,6 @@ CaPaNiWa ERP es una solución integral de contabilidad y finanzas desarrollada c
 
 ## 🛠️ Instalación y Configuración
 
+💡 Un último consejo de "colega"
+Si en el futuro quieres que la IA funcione al 100% sin errores de conexión, podrías probar a desplegar el backend en un servicio como Render o Railway, ya que a veces los puertos locales de Windows (localhost) dan problemas de permisos con las peticiones externas de Google.
+
